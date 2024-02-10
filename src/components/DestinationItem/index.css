@@ -1,0 +1,11 @@
+.card-container {
+  margin: 20px;
+}
+.style-image {
+  height: 200px;
+  width: 250px;
+}
+
+.style-name {
+  font-family: Open Sans;
+}

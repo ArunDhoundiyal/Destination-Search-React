@@ -1,0 +1,36 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-size: cover;
+  height: 100vh;
+  overflow: auto;
+}
+.top-heading {
+  font-family: roboto;
+}
+.all-item-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  overflow: auto;
+}
+.style-input {
+  background-color: #f1f5f9;
+  border: solid 0px;
+  padding-left: 12px;
+  padding-right: 12px;
+  height: 40px;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+}
+.search-icon {
+  height: 40px;
+  padding: 8px;
+  background-color: #f1f5f9;
+  border: solid 0px;
+}
